@@ -26,7 +26,7 @@ a0) Input image - a1) Smoothed image - b1) Edge image
 <img src="input/ps1-input1.png" height="180">
 <img src="output/ps1-4-a-1.png" height="180">
 <img src="output/ps1-4-b-1.png" height="180">  
-c1) Hough Peaks - c2) Original image with Hough Lines
+c1) Hough Peaks - c2) Original image with Hough Lines  
 <img src="output/ps1-4-c-1.png" height="180" width="60">
 <img src="output/ps1-4-c-2.png" height="180">
 
@@ -35,26 +35,25 @@ a0) Input image - a1) Smoothed image - a2) Edge image
 <img src="input/ps1-input1.png" height="180">
 <img src="output/ps1-5-a-1.png" height="180">
 <img src="output/ps1-5-a-2.png" height="180">  
-a3) Original Image with Hough Circles of known radius (r=20 px) - b1) Original Image with Hough Circles of unknown radius (r=[20, 50] px)
+a3) Original Image with Hough Circles of known radius (20px) - b1) Original Image with Hough Circles of unknown radius (20-50px)  
 <img src="output/ps1-5-a-3.png" height="180">
 <img src="output/ps1-5-b-1.png" height="180">  
 
 ### 6. Linear Hough Transform on Cluttered Image
-a0) Input image - a1) Smoothed image with Hough lines - c1) Smoothed image with constrained Hough Lines
+a0) Input image - a1) Smoothed image with Hough lines - c1) Smoothed image with constrained Hough Lines  
 <img src="input/ps1-input2.png" height="180">
 <img src="output/ps1-6-a-1.png" height="180">
 <img src="output/ps1-6-c-1.png" height="180">  
 c) constraint: parallel lines, in a distance smaller than a given threshold (rho_max)
 
 ### 7. Circular Hough Transform on Cluttered Image
-a0) Input image - a1) Smoothed image with Hough Circles of unknown radius (r=[20, 40] px)
+a0) Input image - a1) Smoothed image with Hough Circles of unknown radius (20-40px)  
 <img src="input/ps1-input2.png" height="180">
-<img src="output/ps1-7-a-1.png" height="180">
+<img src="output/ps1-7-a-1.png" height="180">  
 
 ### 8. Linear Hough Transform on Distorted Image
-a0) Input image - a1) Smoothed image with Hough Lines
+a0) Input image - a1) Smoothed image with Hough Lines  
 <img src="input/ps1-input3.png" height="180">
 <img src="output/ps1-8-a-1.png" height="180">  
 b) An Elliptical Hough Transform must be applied in order
-to detect circles (ellipses) on distorted images.
-
+to detect circles (ellipses) on distorted images.  
