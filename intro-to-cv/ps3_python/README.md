@@ -39,7 +39,7 @@ F = [[-5.35883058e-07  7.89972529e-06 -1.88480998e-03]
      [-9.08539027e-04 -2.64201801e-02  1.00000000e+00]]
 ```  
 
-c) Epipolar lines estimation:
+c) Epipolar lines estimation:  
 <img src="output/ps3-2-c-1.png" width="300">
 <img src="output/ps3-2-c-2.png" width="300">   
 
@@ -64,5 +64,5 @@ New F = [[ 7.33805044e-06 -9.65613247e-05  2.43562183e-02]
          [-6.06107264e-05  1.84673403e-05 -1.91366320e-01]
          [-6.24066565e-04  2.59442041e-01 -5.23496483e+00]]
 ```
-<img src="output/ps3-2-e-1.png" width="300">
+<img src="output/ps3-2-e-1.png" width="300">  
 <img src="output/ps3-2-e-2.png" width="300">  
