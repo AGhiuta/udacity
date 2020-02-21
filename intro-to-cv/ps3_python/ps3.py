@@ -152,9 +152,9 @@ def ps3_2_e(printing=False):
 if __name__ == "__main__":
     # _ = ps3_1_a(True)
     # _ = ps3_1_b(True)
-    ps3_1_c()
+    # ps3_1_c()
     # _ = ps3_2_a(True)
     # _ = ps3_2_b(True)
     # ps3_2_c()
     # ps3_2_d(True)
-    # ps3_2_e(True)
+    ps3_2_e(True)
