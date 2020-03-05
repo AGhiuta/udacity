@@ -67,9 +67,9 @@ Percentage of matches in the biggest consensus set: 35.77
 
 ##### d) Backwards warping and blending of the 2nd image to the 1st based on the similarity consensus set
 Warped simB image:  
-<img src="output/ps4-3-d-1.png" width="400">
+<img src="output/ps4-3-d-1.png" width="400">  
 The simA - warped_simB overlay image:  
-<img src="output/ps4-3-d-2.png" width="400">
+<img src="output/ps4-3-d-2.png" width="400">  
 
 ##### e) Backwards warping and blending of the 2nd image to the 1st based on the Affine consensus set
 Warped simB image:  
