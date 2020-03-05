@@ -73,7 +73,6 @@ The simA - warped_simB overlay image:
 
 ##### e) Backwards warping and blending of the 2nd image to the 1st based on the Affine consensus set
 Warped simB image:  
-<img src="output/ps4-3-e-1.png" width="400">
+<img src="output/ps4-3-e-1.png" width="400">  
 The simA - warped_simB overlay image:  
-<img src="output/ps4-3-e-2.png" width="400">
-
+<img src="output/ps4-3-e-2.png" width="400">  
