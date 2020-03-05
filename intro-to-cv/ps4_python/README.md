@@ -43,19 +43,19 @@ Images with Harris Corners marked:
 
 ###  3. RANSAC
 ##### a) Largest consensus set drawn on the trans image pair
-<img src="output/ps4-3-a-1.png" width="400">  
 ```
 Translation vector: [-127.  -74.]
 Percentage of matches in the biggest consensus set: 4.48
 ```
+<img src="output/ps4-3-a-1.png" width="400">  
 
 ##### b) Largest consensus set drawn on the sim image pair using similarity transform comparison
-<img src="output/ps4-3-b-1.png" width="400">  
 ```
 Transform matrix: [[  0.95539488  -0.27397108  41.49677419]
                    [  0.27397108   0.95539488 -50.81290323]]
 Percentage of matches in the biggest consensus set: 43.90
 ```
+<img src="output/ps4-3-b-1.png" width="400">  
 
 ##### c) Largest consensus set drawn on the sim image pair using Affine transform comparison
 ```
