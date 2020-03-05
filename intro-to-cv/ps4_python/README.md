@@ -58,7 +58,7 @@ Percentage of matches in the biggest consensus set: 43.90
 ```
 
 ##### c) Largest consensus set drawn on the sim image pair using Affine transform comparison
-<img src="output/ps4-3-c-1.png" width="400">  
+<img src="output/ps4-3-c-1.png" width="400">
 ```
 Transform matrix: [[  0.97523671  -0.20320466  22.5826657 ]
                    [  0.29133285   0.97887837 -62.79606701]]
