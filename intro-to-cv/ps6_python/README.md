@@ -1,10 +1,10 @@
 # Problem Set 6: Particle Tracking
 
 ### 1. Particle Filter Tracking
-##### a) Tracking Romney's face in pres\_debate.avi
-The image patch used for tracking:
-<img src="output/ps6-1-a-1.png" width="50">
-Image frames 28, 84 and 144 with overlaid visualizations:
+##### a) Tracking Romney's face in pres\_debate.avi 
+The image patch used for tracking:  
+<img src="output/ps6-1-a-1.png" width>  
+Image frames 28, 84 and 144 with overlaid visualizations:  
 <img src="output/ps6-1-a-2.png" width="200"> <img src="output/ps6-1-a-3.png" width="200"> <img src="output/ps6-1-a-4.png" width="200">
 
 ##### e) Tracking Romney's face in noisy\_debate.avi
